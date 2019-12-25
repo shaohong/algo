@@ -1,1 +1,1 @@
-Here are some algorithms + data structure exercises.
+Here are some algorithms and data structure exercises.
